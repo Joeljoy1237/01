@@ -4,6 +4,11 @@ body {
   color: white;
   font-family: 'Raleway', sans-serif;
 }
+@media (max-width: 990px) {
+body{
+  background-image: url(what.jpg)
+}
+}
 h1{
      font-size: 4rem;
      font-weight: lighter;
