@@ -6,8 +6,10 @@ body {
 }
 @media (max-width: 990px) {
 body{
-  background-image: url(wall.jpg)
+  background-image: url(wall.jpg);
 }
+.img{
+  width:7%;
 }
 h1{
      font-size: 4rem;
