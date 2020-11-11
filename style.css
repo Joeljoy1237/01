@@ -8,8 +8,10 @@ body {
 body{
   background-image: url(wall.jpg);
 }
-.img{
-  width: 8%;
+}
+@media (max-width: 990px) {
+img{	
+  width: 8%;	
 }
 }
 h1{
