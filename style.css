@@ -10,11 +10,7 @@ body{
   Width: 100%
 }
 }
-@media (max-width: 990px) {
-img{	
-  width: 500%;	
-}
-}
+
 h1{
      font-size: 4rem;
      font-weight: lighter;
@@ -32,4 +28,9 @@ img{
      left: 10px;
      top: 10px;
      border-radius:100% ;
+}
+@media (max-width: 990px) {
+img{	
+  width: 500%;	
+}
 }
