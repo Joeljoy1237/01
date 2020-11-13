@@ -7,7 +7,7 @@ body {
 @media (max-width: 990px) {
 body{
   background-image: url(wall.jpg);
-  Width: 100%
+  padding-top: 30%;
 }
 }
 
