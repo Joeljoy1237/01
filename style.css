@@ -2,6 +2,7 @@ body {
   background-image: url(Some.jpg); 
   text-align:center;
   color: white;
+  filter: blur(8px);
   font-family: 'Raleway', sans-serif;
 }
 @media (max-width: 990px) {
