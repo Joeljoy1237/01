@@ -1,10 +1,11 @@
 body {
   text-align:center;
   color: white;
+  background-image: url(some.jpg);
   font-family: 'Raleway', sans-serif;
 }
 @media (max-width: 990px) {
-.back-img{
+body{
   background-image: url(wall.jpg);
   padding-top: 30%;
 }
