@@ -22,12 +22,14 @@ hr{
      border-top: none;
      width: 15%;
 }
-img{
-     width: 4%;
+.logo-j{
+     color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: none;
      position: absolute;
      left: 10px;
      top: 10px;
-     border-radius:100% ;
 }
 @media (max-width: 990px) {
 img{	
