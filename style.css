@@ -22,6 +22,15 @@ hr{
      border-top: none;
      width: 15%;
 }
+.back-img{
+    background-image: url("photographer.jpg");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .logo-j{
      color: white;
     font-size: xx-large;
