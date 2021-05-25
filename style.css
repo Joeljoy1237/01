@@ -1,11 +1,10 @@
 body {
-  background-image: url(Some.jpg); 
   text-align:center;
   color: white;
   font-family: 'Raleway', sans-serif;
 }
 @media (max-width: 990px) {
-body{
+.back-img{
   background-image: url(wall.jpg);
   padding-top: 30%;
 }
@@ -23,7 +22,7 @@ hr{
      width: 15%;
 }
 .back-img{
-    background-image: url("photographer.jpg");
+    background-image: url(Some.jpg);
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%;
