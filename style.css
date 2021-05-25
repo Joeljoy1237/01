@@ -1,7 +1,7 @@
 body {
   text-align:center;
   color: white;
-  background-image: url(some.jpg);
+  background-image: url(Some.jpg);
   font-family: 'Raleway', sans-serif;
 }
 @media (max-width: 990px) {
